@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img alt="Desafio Front-end Novaweb" title="#Desafio Front-end Novaweb" src="./img/banner.png" />
+    <img alt="Desafio Front-end Novaweb" title="#Desafio Front-end Novaweb" src="./img/Banner.png" />
 </h1>
 <br/>
 <p align="center">
  <a href="#-sobre-o-desafio">Sobre</a> •
  <a href="#-instruções">Instruções</a> • 
  <a href="#-descrição-do-problema">Descrição</a> •
- <a href="#-avaliação
-">Avaliação</a> • 
+ <a href="#-avaliação">Avaliação</a> •
+ <a href="#-dúvidas">Dúvidas</a> • 
  <a href="#-observações">Observações</a>
 </p>
 <br/>
